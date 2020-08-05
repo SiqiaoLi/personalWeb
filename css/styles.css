@@ -96,16 +96,18 @@ a:hover {
   padding: 20px 0;
 }
 
-.top-cloud {
+.top-planet {
   position: absolute;
+  width: 8%;
   right: 300px;
   top: 50px;
 }
 
-.bottom-cloud {
+.bottom-world {
   position: absolute;
-  left: 300px;
-  bottom: 300px
+  width: 7%;
+  left: 280px;
+  bottom: 170px
 }
 
 .spaceman {
